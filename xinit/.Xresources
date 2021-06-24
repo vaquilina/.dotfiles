@@ -1,0 +1,94 @@
+! Fonts {{{
+ Xft.autohint:  0
+ Xft.antialias: true
+ Xft.hinting:   true
+ Xft.rgba:      rgb
+ Xft.hintstyle: hintfull
+ Xft.lcdfilter: lcddefault
+ Xft.dpi:       192
+!  }}}
+
+! default font
+st.font: TerminessTTF Nerd Font:pixelsize=30:antialias=true:autohint=true;
+
+! transparency
+! st.alpha: 0.9
+
+! sxiv
+Sxiv.foreground: #ffebcd
+
+! Personal Tweaks
+! background color
+*.background: #000000
+
+
+!! TWILIGHT
+
+!! special
+!*.foreground:   #a7a7a7
+!*.background:   #1e1e1e
+!*.cursorColor:  #a7a7a7
+!
+!! black
+!*.color0:       #1e1e1e
+!*.color8:       #5f5a60
+!
+!! red
+!*.color1:       #cf6a4c
+!*.color9:       #cf6a4c
+!
+!! green
+!*.color2:       #8f9d6a
+!*.color10:      #8f9d6a
+!
+!! yellow
+!*.color3:       #f9ee98
+!*.color11:      #f9ee98
+!
+!! blue
+!*.color4:       #7587a6
+!*.color12:      #7587a6
+!
+!! magenta
+!*.color5:       #9b859d
+!*.color13:      #9b859d
+!
+!! cyan
+!*.color6:       #afc4db
+!*.color14:      #afc4db
+!
+!! white
+!*.color7:       #a7a7a7
+!*.color15:      #ffffff
+
+
+!! JELLYBEANS
+!! See https://github.com/nanotech/jellybeans.vim
+!
+!*.background: #151515
+!*.foreground: #ffffff
+!! black
+!*.color0: #888888
+!*.color8: #525252
+!! red
+!*.color1: #cf6a4c
+!*.color9: #ff9d80
+!! green
+!*.color2: #99ad6a
+!*.color10: #c3e6ad
+!! yellow
+!*.color3: #fad07a
+!*.color11: #ffefbf
+!! blue
+!*.color4: #8197bf
+!*.color12: #accaff
+!! magenta
+!*.color5: #8787af
+!*.color13: #c4c4ff
+!! cyan
+!*.color6: #8fbfdc
+!*.color14: #80bfaf
+!! white
+!*.color7: #888888
+!*.color15: #e8e8d3
+
